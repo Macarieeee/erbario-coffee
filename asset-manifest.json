@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/erbario-coffee/static/css/main.f1eeb07b.css",
+    "main.js": "/erbario-coffee/static/js/main.deae96fc.js",
+    "static/js/453.ddfb5f0f.chunk.js": "/erbario-coffee/static/js/453.ddfb5f0f.chunk.js",
+    "static/media/fundal-second.png": "/erbario-coffee/static/media/fundal-second.a21348b791410a3a8ea6.png",
+    "static/media/poza1.jpeg": "/erbario-coffee/static/media/poza1.59e5d3ea545538fae96f.jpeg",
+    "static/media/fundal-main.jpg": "/erbario-coffee/static/media/fundal-main.34ab584ffcf219c5e8b0.jpg",
+    "static/media/float-image-1-removebg-preview.png": "/erbario-coffee/static/media/float-image-1-removebg-preview.2d55cebf8faca319f6fd.png",
+    "static/media/chicken-wings.jpg": "/erbario-coffee/static/media/chicken-wings.58e778edae1a16ac73b4.jpg",
+    "static/media/caprese-salad.jpg": "/erbario-coffee/static/media/caprese-salad.3d0de9c297ec3576dc0e.jpg",
+    "static/media/bruschetta.jpg": "/erbario-coffee/static/media/bruschetta.89c2459f244a0be78ad7.jpg",
+    "static/media/hummus.jpg": "/erbario-coffee/static/media/hummus.b5007f352a63500f69ec.jpg",
+    "index.html": "/erbario-coffee/index.html",
+    "main.f1eeb07b.css.map": "/erbario-coffee/static/css/main.f1eeb07b.css.map",
+    "main.deae96fc.js.map": "/erbario-coffee/static/js/main.deae96fc.js.map",
+    "453.ddfb5f0f.chunk.js.map": "/erbario-coffee/static/js/453.ddfb5f0f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f1eeb07b.css",
+    "static/js/main.deae96fc.js"
+  ]
+}
