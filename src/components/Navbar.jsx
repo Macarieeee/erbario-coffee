@@ -16,7 +16,7 @@ const Navbar = () => {
       rel="noopener noreferrer"
       className="hover:underline"
     >
-      📍 Strada General Nicolae Haralambie 30, București 040587
+      📍 Strada General Nicolae Haralambie 30
     </a>
 
     <a href="tel:+40731144159" className="hover:underline">
